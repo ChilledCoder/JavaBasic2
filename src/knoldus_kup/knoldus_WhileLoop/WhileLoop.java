@@ -5,6 +5,9 @@ public class WhileLoop {
 
 
         int number = 10;
+
+
+        //conditional statement
         while (number > 0) {
             System.out.println(number);
             number--;
